@@ -9,7 +9,7 @@ import io
 import pandas as pd
 import streamlit as st
 
-import painel_core as pc
+import core as pc
 
 # Configuração da página
 st.set_page_config(page_title="Análise de Dados em Painel", page_icon="📈", layout="wide")
