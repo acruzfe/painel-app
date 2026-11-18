@@ -21,7 +21,7 @@ import tempfile
 import pandas as pd
 import streamlit as st
 
-import painel_core as pc
+import core as pc
 
 VERSAO_APP = "6.0"
 
